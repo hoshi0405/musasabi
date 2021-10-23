@@ -1,1 +1,2 @@
 # musasabi
+aiueo
