@@ -1,2 +1,3 @@
 # musasabi
 aiueo
+アイウエオ
